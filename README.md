@@ -12,13 +12,13 @@
 
 - 🤝 I’m looking to partner with someone to enhance our **data structures and algorithm skills together**
 
-- 👨‍💻 All of my projects are available at **My portfolio** (My protfolio)
+- 👨‍💻 All of my projects are available at <a href="https://afzhal-ahmed-s.github.io" target="blank">My Portfolio</a>
 
-- 💬 Ask me about **Java and Spring boot**
+- 💬 Ask me about **Java, Spring boot, Java Script and Data structures and Algorithms.**
 
 - 📫 How to reach me **writetoafzhalahmeds@gmail.com**
 
-- 📄 Know about my experiences [My resume](My resume)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1kenVWj3VuGcZ9-iWmy23zgT61H_9YN8H/view?usp=sharing" target="blank">My Resume</a>
 
 - ⚡ Fun fact **I think how to think each day.**
 
