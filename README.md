@@ -16,9 +16,9 @@
 
 - 💬 Ask me about **Java, Spring boot, Java Script and Data structures and Algorithms.**
 
-- 📫 How to reach me **writetoafzhalahmeds@gmail.com**
+- 📫 Reach me at **writetoafzhalahmeds@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1kenVWj3VuGcZ9-iWmy23zgT61H_9YN8H/view?usp=sharing" target="blank">My Resume</a>
+- 📄 Know about my experiences from <a href="https://drive.google.com/file/d/1kenVWj3VuGcZ9-iWmy23zgT61H_9YN8H/view?usp=sharing" target="blank">My Resume</a>
 
 - ⚡ Fun fact **I think how to think each day.**
 
