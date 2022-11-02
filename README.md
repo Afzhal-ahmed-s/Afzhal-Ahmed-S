@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking to partner with someone to enhance our **data structures and algorithm skills together**
 
-- 👨‍💻 All of my projects are available at <a href="https://afzhal-ahmed-s.github.io" target="blank">My Portfolio</a>
+- 👨‍💻 Find my portfolio at <a href="https://afzhal-ahmed-s.github.io" target="blank">My Portfolio</a>
 
 - 💬 Ask me about **Java, Spring boot, Java Script and Data structures and Algorithms.**
 
