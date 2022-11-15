@@ -4,6 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afzhal-ahmed-s&label=Profile%20views&color=0e75b6&style=flat" alt="afzhal-ahmed-s" /> </p>
 
+- 🔭 I’m from **Coimbatore, Tamil Nadu**
 
 - 🔭 I’m currently working on **Java and Spring boot**
 
