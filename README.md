@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Afzhal Ahmed S</h1>
-<h3 align="center">A creative, passionate and minimalistic Java Back-End developer developer keen in building real world scalable applications that can make this world a better place to live in.</h3>
+<h3 align="center">A creative, passionate and minimalistic Java Back-End Developer keen in building real world scalable applications that can make this world a better place to live in.</h3>
 <h3 align="center">2 ⭐️ LeetCode</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afzhal-ahmed-s&label=Profile%20views&color=0e75b6&style=flat" alt="afzhal-ahmed-s" /> </p>
