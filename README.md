@@ -28,11 +28,19 @@
 - ⚡ Fun fact **I think how to think each day.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Version 1 -->
+<!-- <p align="left">
 <a href="https://twitter.com/afzhalahmed_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="afzhalahmed_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/afzhal-ahmed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/afzhal-ahmed" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/afzhalahmeds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="afzhalahmeds" height="30" width="40" /></a>
-</p>
+</p> -->
+
+
+<div align="left">
+<a href="https://linkedin.com/in/afzhal-ahmed/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>  
 
 <!-- <h3 align="left">Languages and Tools:</h3>
  -->
