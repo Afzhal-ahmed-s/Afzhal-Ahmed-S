@@ -27,7 +27,7 @@
 
 - ⚡ Fun fact **I think how to think each day.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social handles:</h3>
 <!-- Version 1 -->
 <!-- <p align="left">
 <a href="https://twitter.com/afzhalahmed_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="afzhalahmed_" height="30" width="40" /></a>
@@ -38,8 +38,11 @@
 
 <div align="left">
 <a href="https://linkedin.com/in/afzhal-ahmed/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
+ <a href="https://leetcode.com/afzhalahmeds/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+ <a href="https://afzhal-ahmed-s.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-008000.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="mailto:mail.writetoafzhalahmeds@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 </div>  
 
 <!-- <h3 align="left">Languages and Tools:</h3>
@@ -71,7 +74,7 @@
  <br/>
  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,sts,notion)]()
  
-[![Afzhal Ahmed's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=afzhal-ahmed-s&theme=tokyonight)](https://git.io/praveenscience)
+<!-- [![Afzhal Ahmed's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=afzhal-ahmed-s&theme=tokyonight)](https://git.io/praveenscience) -->
 
 | ![Afzhal Ahmed S's github stats](https://github-readme-stats.vercel.app/api?username=afzhal-ahmed-s&show_icons=true&theme=tokyonight) | ![Afzhal Ahmed S GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=afzhal-ahmed-s&theme=tokyonight) |
 | --- | --- |
