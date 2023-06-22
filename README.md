@@ -8,18 +8,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afzhal-ahmed-s&label=Profile%20views&color=0e75b6&style=flat" alt="afzhal-ahmed-s" /> </p>
 
 - 🔭 I’m from **Coimbatore, Tamil Nadu**
+  
+- 🌱 I’m currently working at **Noduco as a Junior backend developer, Remote work**
 
-- 🔭 I’m currently working on **Java and Spring boot**
-
-- 🌱 I’m currently learning **Full Stack web development in Masai school, Banglore**
+- 🌱 I’m currently learning and working in Java, SpringBoot, Hibernate, Gradle, unit test using Junit and Mockito, and Linux at work.
 
 - 👯 I’m looking to collaborate on **developing full stack web development applications**
 
-- 🤝 I’m looking to partner with someone to enhance our **data structures and algorithm skills together**
+- 🤝 I’m learning **DSA and react** to have fun and enhance my profile. I'm ready to be your study buddy:)
 
 - 👨‍💻 Find my portfolio at <a href="https://afzhal-ahmed-s.github.io" target="blank">My Portfolio</a>
 
-- 💬 Ask me about **Java, Spring boot, Java Script and Data structures and Algorithms.**
+- 💬 Ask me about **Java, Spring boot, and Data structures and Algorithms.**
 
 - 📫 Reach me at **writetoafzhalahmeds@gmail.com**
 
